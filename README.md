@@ -19,5 +19,5 @@ Este é um projeto simples de cronômetro desenvolvido com **HTML**, **CSS** e *
 O cronômetro utiliza a função `setInterval()` para incrementar o tempo a cada segundo e atualizar a interface do usuário com o tempo formatado usando `toLocaleTimeString()`.
 
 
-https://stellular-bublanina-ad966a.netlify.app/![screencapture-stellular-bublanina-ad966a-netlify-app-2024-10-21-20_06_15](https://github.com/user-attachments/assets/89523e4a-e1f5-48fa-97a6-0ef27b96e5e8)
+https://stellular-bublanina-ad966a.netlify.app/
 
